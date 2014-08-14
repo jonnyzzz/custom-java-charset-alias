@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jar</output-path>
+    <root id="root">
+      <element id="archive" name="custom-java-charsets.jar">
+        <element id="module-output" name="charset-provider" />
+      </element>
+    </root>
+  </artifact>
+</component>
